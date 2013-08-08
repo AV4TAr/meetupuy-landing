@@ -53,9 +53,9 @@ $anuales = array(
     ),
     'jsconfuy' => array(
         'id'  =>  'jsconfuy',
-        'titulo' => 'JSConf Uruguay 2013',
+        'titulo' => 'JSConf Uruguay 2014',
         'lugar' => 'Auditorio Torre de las Telecomunicaciones, Montevideo',
-        'fecha' => '18 y 19/10/2013',
+        'fecha' => '14 y 15/03/2014',
         'horario' => '',
         'costo' => '',
         'link' => 'http://jsconf.uy',
@@ -69,7 +69,7 @@ $anuales = array(
                 ),
                 array(
                     'txt' => 'Facebook',
-                    'uri' => 'https://www.facebook.com/JsConfUY',
+                    'uri' => 'https://www.facebook.com/JSConfUY',
                     'alt' => 'Facebook'
                 ),
             ),
@@ -140,7 +140,7 @@ $mensuales = array(
         'titulo' => 'MVDJS Meetup',
         'subtitulo' => 'Meetup de Javascript en Montevideo',
         'lugar' => '',
-        'fecha' => '1er jueves de mes',
+        'fecha' => '1er jueves de los meses pares',
         'horario' => '19:00',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/mvd-js/',
