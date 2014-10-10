@@ -1,33 +1,10 @@
 <?php
 $anuales = array(
-    'netconfuy' => array(
-        'id' => 'netconfuy',
-        'titulo' => '.NET Conf UY',
-        'lugar' => 'Auditorio Antel, Montevideo',
-        'fecha' => '3 y 4 de Octubre de 2014',
-        'horario' => '',
-        'costo' => '',
-        'link' => 'http://netconf.uy/',
-        'descripcion' => '',
-        'tags' => '.net, azure, sharepoint, mobile, mvc, c#, aop, sql, windows 8, windows phone, xamarin, internet of things, visual studio',
-        'links_otros' => array(
-            array(
-                'txt' => '@NETConfUY',
-                'uri' => 'https://twitter.com/NETConfUY',
-                'alt' => 'twitter'
-            ),
-            array(
-                'txt' => 'Facebook',
-                'uri' => 'https://www.facebook.com/NETConfUY',
-                'alt' => 'Facebook'
-            )
-        )
-    ),
     'uycg' => array(
         'id' => 'uycg',
         'titulo' => 'Uruguay Computer Graphics',
         'lugar' => '',
-        'fecha' => '7 y 8/11/2013',
+        'fecha' => '7 y 8 de Noviembre de 2014',
         'horario' => '',
         'costo' => '',
         'link' => 'http://uycg.com.uy/',
@@ -55,9 +32,9 @@ $anuales = array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2014',
         'lugar' => '',
-        'fecha' => '14 y 15/11/2013',
+        'fecha' => '14 y 15 de Noviembre de 2014',
         'horario' => '',
-        'costo' => '',
+        'costo' => 'USD 25',
         'link' => 'http://tech.meetup.uy',
         'descripcion' => '',
         'tags' => 'desarrollo, tecnología, IT',
