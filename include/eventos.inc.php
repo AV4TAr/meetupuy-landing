@@ -1,33 +1,5 @@
 <?php
 $anuales = array(
-    'uycg' => array(
-        'id' => 'uycg',
-        'titulo' => 'Uruguay Computer Graphics',
-        'lugar' => '',
-        'fecha' => '7 y 8 de Noviembre de 2014',
-        'horario' => '',
-        'costo' => '',
-        'link' => 'http://uycg.com.uy/',
-        'descripcion' => '',
-        'tags' => 'CG, gaming, dev',
-        'links_otros' => array(
-            array(
-                'txt' => '@UYCG',
-                'uri' => 'https://twitter.com/UYCG',
-                'alt' => 'twitter'
-            ),
-            array(
-                'txt' => 'Facebook',
-                'uri' => 'https://www.facebook.com/EncuentroUyCG',
-                'alt' => 'Facebook'
-            ),
-            array(
-                'txt' => 'YouTube',
-                'uri' => 'https://www.youtube.com/user/EncuentroUYCG',
-                'alt' => 'YouTube'
-            )
-        )
-    ),
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2014',
@@ -412,5 +384,14 @@ $mensuales = array(
         'link' => 'http://www.meetup.com/beerjsuy/',
         'descripcion' => '',
         'tags' => 'beer, js, web-development'
-    )
+    ),
+    'rust' => array(
+        'id' => 'rust',
+        'titulo' => 'Rust Montevideo',
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Rust-Montevideo/',
+        'descripcion' => '',
+        'tags' => 'rust, mozilla'
+    ),
 );
