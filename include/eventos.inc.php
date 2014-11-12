@@ -394,4 +394,13 @@ $mensuales = array(
         'descripcion' => '',
         'tags' => 'rust, mozilla'
     ),
+    'modatech' => array(
+        'id' => 'modatech',
+        'titulo' => 'Mod-a-Tech',
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Mod-a-Tech/',
+        'descripcion' => '',
+        'tags' => 'moda, fashion, startup, internet'
+    ),
 );
