@@ -403,4 +403,13 @@ $mensuales = array(
         'descripcion' => '',
         'tags' => 'moda, fashion, startup, internet'
     ),
+    'bluemixspaas' => array(
+        'id' => 'bluemixspaas',
+        'titulo' => 'Mvd PaaS, Bluemix & Cloud Computing Meetup',
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Montevideo-PaaS-Bluemix-and-Cloud-Computing-Meetup/',
+        'descripcion' => '',
+        'tags' => 'DevOps, Cloud, Bluemix, OS, PaaS'
+    ),
 );
