@@ -1,5 +1,6 @@
 <?php
 $anuales = array(
+    /*
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2014',
@@ -22,7 +23,7 @@ $anuales = array(
                 'alt' => 'Facebook'
             )
         )
-    )
+    )*/
 );
 
 $mensuales = array(
