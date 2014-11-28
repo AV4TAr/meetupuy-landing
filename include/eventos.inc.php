@@ -1,13 +1,12 @@
 <?php
 $anuales = array(
-    /*
     'techmeetup' => array(
         'id' => 'techmeetupuy',
-        'titulo' => 'techMeetup UY v2014',
+        'titulo' => 'techMeetup UY v2015',
         'lugar' => '',
-        'fecha' => '14 y 15 de Noviembre de 2014',
+        'fecha' => 'a confirmar',
         'horario' => '',
-        'costo' => 'USD 25',
+        'costo' => 'a confirmar',
         'link' => 'http://tech.meetup.uy',
         'descripcion' => '',
         'tags' => 'desarrollo, tecnología, IT',
@@ -23,7 +22,7 @@ $anuales = array(
                 'alt' => 'Facebook'
             )
         )
-    )*/
+    )
 );
 
 $mensuales = array(
