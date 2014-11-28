@@ -132,6 +132,7 @@ function print_bloque($evento) {
                         <hr class="dashed">
                     </div>
                 </div>
+                <?php /*
                 <div class="row">
                     <div class="span12">
                         <a href="http://tech.meetup.uy" style="display: inline-block; text-align: left; margin-bottom: 1.5em; width: 87%; margin-left: 1.6em;">
@@ -139,6 +140,8 @@ function print_bloque($evento) {
                         </a>
                     </div>
                 </div>
+                */
+                ?>
                 <?php
                 $anuales_chunks = array_chunk($anuales, 2);
                 foreach ($anuales_chunks as $eventos_row):
