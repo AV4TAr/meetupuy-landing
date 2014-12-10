@@ -1,5 +1,23 @@
 <?php
 $anuales = array(
+    'testinguy' => array(
+        'id' => 'testinguy',
+        'titulo' => '<TestingUy>2',
+        'lugar' => '',
+        'fecha' => 'Abril 2015',
+        'horario' => '',
+        'costo' => '',
+        'link' => 'http://www.testing.uy/',
+        'descripcion' => '',
+        'tags' => 'Testing, desarrollo, calidad',
+        'links_otros' => array(
+            array(
+                'txt' => '@testingUY',
+                'uri' => 'https://twitter.com/testingUY',
+                'alt' => 'twitter'
+            ),
+        ),
+    ),
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
@@ -20,9 +38,9 @@ $anuales = array(
                 'txt' => 'Facebook',
                 'uri' => 'https://www.facebook.com/meetupuy',
                 'alt' => 'Facebook'
-            )
-        )
-    )
+            ),
+        ),
+    ),
 );
 
 $mensuales = array(
