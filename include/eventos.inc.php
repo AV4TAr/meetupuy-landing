@@ -2,7 +2,7 @@
 $anuales = array(
     'testinguy' => array(
         'id' => 'testinguy',
-        'titulo' => '<TestingUy>2',
+        'titulo' => 'TestingUy2',
         'lugar' => '',
         'fecha' => 'Abril 2015',
         'horario' => '',
