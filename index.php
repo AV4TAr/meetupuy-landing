@@ -208,13 +208,15 @@ function print_bloque($evento) {
                         </p>
                     </div>
                 </div>
+                <!--
                 <div class="row">
                     <div class="span12">
-                        <a href="http://trabajo.gallito.com.uy/?ref=techmeetup" style="display: inline-block; text-align: center; margin-bottom: 1.5em; width: 87%; margin-left: 1.6em;" target="_blank">
-                            <img src="./img/banner_gallito_puzzle.gif">
+                        <a href="#" style="display: inline-block; text-align: center; margin-bottom: 1.5em; width: 87%; margin-left: 1.6em;" target="_blank">
+                            <img src="#">
                         </a>
                     </div>
                 </div>
+                -->
                 <div class="row">
                     <div class="span12">
                         <h2 class="txt-middle">Google Calendar</h2>
