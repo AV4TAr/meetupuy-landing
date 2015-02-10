@@ -257,6 +257,19 @@ $mensuales = array(
         'links_otros' => array()
     ),
     
+    'angularuy' => array(
+        'id' => 'angularuy',
+        'titulo' => 'ng-meetup-uy',
+        'lugar' => '',
+        'fecha' => '',
+        'horario' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/ng-meetup-uy/',
+        'descripcion' => '',
+        'tags' => 'angularjs, javascript, mobile',
+        'links_otros' => array()
+    ),
+    
 
     'technbeers' => array(
         'id' => 'technbeers',
