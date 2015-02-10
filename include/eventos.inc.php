@@ -243,6 +243,20 @@ $mensuales = array(
         'tags' => 'testing, TDD, BDD, QA',
         'links_otros' => array()
     ),
+    
+    'gdguy' => array(
+        'id' => 'gdguy',
+        'titulo' => 'GDG Uruguay',
+        'lugar' => '',
+        'fecha' => '',
+        'horario' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/GDGUruguay/',
+        'descripcion' => '',
+        'tags' => 'google, android, google app engine, cloud',
+        'links_otros' => array()
+    ),
+    
 
     'technbeers' => array(
         'id' => 'technbeers',
