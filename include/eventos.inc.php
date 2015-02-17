@@ -54,6 +54,29 @@ $anuales = array(
             ),
         ),
     ),
+    'netconfuy' => array(
+        'id' => 'netconf',
+        'titulo' => '.Net Conf UY v2015',
+        'lugar' => 'Auditorio de Antel',
+        'fecha' => '30 Setiembre al 4 de Octubre 2015',
+        'horario' => '',
+        'costo' => 'a confirmar',
+        'link' => 'http://netconf.uy',
+        'descripcion' => '',
+        'tags' => '.net, desarrollo, Microsoft, Mobile, Cloud',
+        'links_otros' => array(
+            array(
+                'txt' => '@NETConfUY',
+                'uri' => 'https://twitter.com/NETConfUY',
+                'alt' => 'twitter'
+            ),
+            array(
+                'txt' => 'Facebook',
+                'uri' => 'https://www.facebook.com/NETConfUY',
+                'alt' => 'Facebook'
+            ),
+        ),
+    ),
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
