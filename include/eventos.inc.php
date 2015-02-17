@@ -3,8 +3,8 @@ $anuales = array(
     'testinguy' => array(
         'id' => 'testinguy',
         'titulo' => 'TestingUy2',
-        'lugar' => '',
-        'fecha' => 'Abril 2015',
+        'lugar' => 'Facultad de Ingeniería',
+        'fecha' => '3 de Abril 2015',
         'horario' => '',
         'costo' => '',
         'link' => 'http://www.testing.uy/',
@@ -18,11 +18,29 @@ $anuales = array(
             ),
         ),
     ),
+    'jsconfuy' => array(
+        'id' => 'jsconfuy',
+        'titulo' => 'JSConf',
+        'lugar' => 'Auditorio de Antel',
+        'fecha' => '24,25 de Abril 2015',
+        'horario' => '',
+        'costo' => '',
+        'link' => 'http://jsconf.uy/',
+        'descripcion' => '',
+        'tags' => 'javascript, web, frontend, development, mobile',
+        'links_otros' => array(
+            array(
+                'txt' => '@jsconfuy',
+                'uri' => 'https://twitter.com/jsconfuy',
+                'alt' => 'twitter'
+            ),
+        ),
+    ),
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
-        'lugar' => '',
-        'fecha' => 'a confirmar',
+        'lugar' => 'Auditorio de Antel',
+        'fecha' => 'Octubre 2015',
         'horario' => '',
         'costo' => 'a confirmar',
         'link' => 'http://tech.meetup.uy',
