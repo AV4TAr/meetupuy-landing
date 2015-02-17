@@ -36,6 +36,24 @@ $anuales = array(
             ),
         ),
     ),
+    'LSM' => array(
+        'id' => 'LSM',
+        'titulo' => 'Lean Startup Machine',
+        'lugar' => '-',
+        'fecha' => '29, 30 y 31 de Mayo',
+        'horario' => '-',
+        'costo' => '-',
+        'link' => 'https://www.leanstartupmachine.com/cities/montevideo',
+        'descripcion' => '',
+        'tags' => 'lean, agile, building, entrepreneur',
+        'links_otros' => array(
+            array(
+                'txt' => '@leanmontevideo',
+                'uri' => 'https://twitter.com/leanmontevideo',
+                'alt' => 'twitter'
+            ),
+        ),
+    ),
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
