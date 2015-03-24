@@ -217,6 +217,7 @@ function print_bloque($evento) {
                     </div>
                 </div>
                 -->
+<!--
                 <div class="row">
                     <div class="span12">
                         <h2 class="txt-middle">Google Calendar</h2>
@@ -226,9 +227,9 @@ function print_bloque($evento) {
 
                 <div class="row">
                     <div class="row8 offset1">
-                        <iframe src="https://www.google.com/calendar/embed?src=centra.com.uy_uu1mo3ehptle6sb6iksdnaafb4%40group.calendar.google.com&title=Eventos%20TIC%20UY&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FMontevideo" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
-                    </div>
+                        <iframe src="https://www.google.com/calendar/embed?src=centra.com.uy_uu1mo3ehptle6sb6iksdnaafb4%40group.calendar.google.com&title=Eventos%20TIC%20UY&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FMontevideo" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>                    </div>
                 </div>
+-->
             </div>
         </div>
         <div id="copywrite">
