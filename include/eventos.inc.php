@@ -557,4 +557,13 @@ $mensuales = array(
         'descripcion' => '',
         'tags' => 'paas, citrix, vmware, openstack, hypervm, virtualization',
     ),
+     'sudomeetup' => array(
+        'id' => 'sudomeetup',
+        'titulo'=> 'Sudo Meetup',
+        'subtitulo' => 'Desarrollo de software sin limitarse por lenguajes, frameworks o comunidades',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/sudo-mvd/',
+        'descripcion' => '',
+        'tags' => 'Open Source, Software Development, Web Development, Programming',
+    ),
 );
