@@ -548,4 +548,13 @@ $mensuales = array(
             ),
         ),
     ),
+    'cloudmeetup' => array(
+        'id' => 'cloudmeetup',
+        'titulo'=> 'Cloud Meetup',
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/mvdcloud/',
+        'descripcion' => '',
+        'tags' => 'paas, citrix, vmware, openstack, hypervm, virtualization',
+    ),
 );
