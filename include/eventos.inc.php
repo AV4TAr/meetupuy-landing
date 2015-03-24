@@ -532,4 +532,20 @@ $mensuales = array(
             ),
         ),
     ),
+    'frontendmvd' => array(
+        'id' => 'frontendmvd',
+        'titulo'=> 'Front End MVD',
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Front-end-MVD/',
+        'descripcion' => '',
+        'tags' => 'Web Design, javascript, html5, css3',
+        'links_otros' => array(
+            array(
+                'txt' => '@FrontEndMVD',
+                'uri' => 'https://twitter.com/FrontEndMVD',
+                'alt' => 'twitter'
+            ),
+        ),
+    ),
 );
