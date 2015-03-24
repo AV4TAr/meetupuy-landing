@@ -518,7 +518,7 @@ $mensuales = array(
     ),
     'openstack' => array(
         'id' => 'openstack',
-        'titulo'=> 'OpenStack Uruguay'
+        'titulo'=> 'OpenStack Uruguay',
         'subtitulo' => '',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/OpenStack-Uruguay/',
