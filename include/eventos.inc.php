@@ -516,4 +516,20 @@ $mensuales = array(
         'descripcion' => '',
         'tags' => 'DevOps, Cloud, Bluemix, OS, PaaS'
     ),
+    'openstack' => array(
+        'id' => 'openstack',
+        'titulo'=> 'OpenStack Uruguay'
+        'subtitulo' => '',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/OpenStack-Uruguay/',
+        'descripcion' => '',
+        'tags' => 'OpenStack, Cloud Computing, IaaS, Private Cloud, Cloud',
+        'links_otros' => array(
+            array(
+                'txt' => '@OpenStackUY',
+                'uri' => 'https://twitter.com/OpenStackUY',
+                'alt' => 'twitter'
+            ),
+        ),
+    ),
 );
