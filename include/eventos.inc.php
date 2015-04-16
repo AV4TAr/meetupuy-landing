@@ -1,23 +1,5 @@
 <?php
 $anuales = array(
-    'testinguy' => array(
-        'id' => 'testinguy',
-        'titulo' => 'TestingUy2',
-        'lugar' => 'Facultad de Ingeniería',
-        'fecha' => '3 de Abril 2015',
-        'horario' => '',
-        'costo' => '',
-        'link' => 'http://www.testing.uy/',
-        'descripcion' => '',
-        'tags' => 'Testing, desarrollo, calidad',
-        'links_otros' => array(
-            array(
-                'txt' => '@testingUY',
-                'uri' => 'https://twitter.com/testingUY',
-                'alt' => 'twitter'
-            ),
-        ),
-    ),
     'jsconfuy' => array(
         'id' => 'jsconfuy',
         'titulo' => 'JSConf',
@@ -565,5 +547,14 @@ $mensuales = array(
         'link' => 'http://www.meetup.com/sudo-mvd/',
         'descripcion' => '',
         'tags' => 'Open Source, Software Development, Web Development, Programming',
+    ),
+    'Montevideo-BigData-DataScience-Meetup' => array(
+        'id' => 'Montevideo-BigData-DataScience-Meetup',
+        'titulo'=> 'Montevideo BigData & DataScience Meetup',
+        'subtitulo' => 'Aprender nuevas metodologías y tecnologías que nos permiten extraer información de calidad desde los datos.',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Montevideo-BigData-DataScience-Meetup/',
+        'descripcion' => '',
+        'tags' => 'Machine Learning, Hadoop, Spark, Big Data, Data Mining, Map Reduce',
     ),
 );
