@@ -1,37 +1,19 @@
 <?php
 $anuales = array(
-    'jsconfuy' => array(
-        'id' => 'jsconfuy',
-        'titulo' => 'JSConf',
-        'lugar' => 'Auditorio de Antel',
-        'fecha' => '24,25 de Abril 2015',
-        'horario' => '',
-        'costo' => '',
-        'link' => 'http://jsconf.uy/',
-        'descripcion' => '',
-        'tags' => 'javascript, web, frontend, development, mobile',
-        'links_otros' => array(
-            array(
-                'txt' => '@jsconfuy',
-                'uri' => 'https://twitter.com/jsconfuy',
-                'alt' => 'twitter'
-            ),
-        ),
-    ),
-    'LSM' => array(
-        'id' => 'LSM',
-        'titulo' => 'Lean Startup Machine',
+    'phpday' => array(
+        'id' => 'phpday',
+        'titulo' => 'PHPday Uruguay',
         'lugar' => '',
-        'fecha' => '29, 30 y 31 de Mayo',
+        'fecha' => '8 Agosto 2015',
         'horario' => '',
         'costo' => '',
-        'link' => 'https://www.leanstartupmachine.com/cities/montevideo',
+        'link' => 'http://phpday.uy',
         'descripcion' => '',
-        'tags' => 'lean, agile, building, entrepreneur',
+        'tags' => 'php, devops, db, frameworks',
         'links_otros' => array(
             array(
-                'txt' => '@leanmontevideo',
-                'uri' => 'https://twitter.com/leanmontevideo',
+                'txt' => '@phpdayuy',
+                'uri' => 'https://twitter.com/phpdayuy',
                 'alt' => 'twitter'
             ),
         ),
