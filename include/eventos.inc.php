@@ -5,8 +5,8 @@ $anuales = array(
         'titulo' => 'PHPday Uruguay',
         'lugar' => '',
         'fecha' => '8 Agosto 2015',
-        'horario' => '',
-        'costo' => '',
+        'horario' => '9am - 18pm',
+        'costo' => 'gratis',
         'link' => 'http://phpday.uy',
         'descripcion' => '',
         'tags' => 'php, devops, db, frameworks',
@@ -41,6 +41,7 @@ $anuales = array(
             ),
         ),
     ),
+    /*
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
@@ -64,6 +65,7 @@ $anuales = array(
             ),
         ),
     ),
+    */
 );
 
 $mensuales = array(
