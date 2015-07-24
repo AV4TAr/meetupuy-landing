@@ -281,7 +281,18 @@ $mensuales = array(
         'tags' => 'google, android, google app engine, cloud',
         'links_otros' => array()
     ),
-    
+    'angularmvd' => array(
+        'id' => 'angularmvd',
+        'titulo' => 'Angular MVD',
+        'lugar' => '',
+        'fecha' => '2o miércoles de mes',
+        'horario' => '7pm',
+        'costo' => 'gratis',
+        'link' => 'http://www.meetup.com/Angular-MVD/',
+        'descripcion' => '',
+        'tags' => 'angularjs, javascript, mobile',
+        'links_otros' => array()
+    ),
     'angularuy' => array(
         'id' => 'angularuy',
         'titulo' => 'ng-meetup-uy',
