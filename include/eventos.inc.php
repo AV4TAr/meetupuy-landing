@@ -1,5 +1,6 @@
 <?php
 $anuales = array(
+/*
     'phpday' => array(
         'id' => 'phpday',
         'titulo' => 'PHPday Uruguay',
@@ -41,7 +42,6 @@ $anuales = array(
             ),
         ),
     ),
-    /*
     'techmeetup' => array(
         'id' => 'techmeetupuy',
         'titulo' => 'techMeetup UY v2015',
