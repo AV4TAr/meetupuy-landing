@@ -236,7 +236,7 @@ function print_bloque($evento) {
             <div class="container">
                 <div class="row">
                     <div class="span12">
-                        <p>&copy; 2013 Meetup.UY - <a href="https://github.com/AV4TAr/meetupuy-landing" target="_blank">clone me</a> <span id="totop" class="pull-right">Back to Top <i class="icon-arrow-up"></i></span></p>
+                        <p>&copy; 2016 Meetup.UY - <a href="https://github.com/AV4TAr/meetupuy-landing" target="_blank">clone me</a> <span id="totop" class="pull-right">Back to Top <i class="icon-arrow-up"></i></span></p>
                     </div>
                 </div>
             </div>
