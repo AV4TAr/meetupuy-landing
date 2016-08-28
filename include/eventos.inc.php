@@ -1,5 +1,71 @@
 <?php
 $anuales = array(
+  'netconfuy' => array(
+    'id' => 'netconf',
+    'titulo' => '.NET Conf UY v2016',
+    'lugar' => 'Auditorio de Antel',
+    'fecha' => '29 Setiembre al 1 de Octubre 2016',
+    'horario' => '',
+    'costo' => 'U$S 20',
+    'link' => 'http://netconf.uy/',
+    'descripcion' => 'workshops + conferencias + expertos + comunidad',
+    'tags' => '.net, desarrollo, Microsoft, Mobile, Cloud',
+    'links_otros' => array(
+      array(
+        'txt' => '@NETConfUY',
+        'uri' => 'https://twitter.com/NETConfUY',
+        'alt' => 'twitter'
+      ),
+      array(
+        'txt' => 'Facebook',
+        'uri' => 'https://www.facebook.com/NETConfUY',
+        'alt' => 'Facebook'
+      ),
+    ),
+  ),
+  'mobileday' => array(
+    'id' => 'mobileday',
+    'titulo' => 'MOBILE DAY',
+    'lugar' => 'Auditorio de Antel',
+    'fecha' => '12 de Noviembre del 2016',
+    'horario' => '',
+    'costo' => '',
+    'link' => 'http://www.mobileday.uy/',
+    'descripcion' => 'MobileDay es la primera conferencia de tecnologías Mobile del Uruguay orientada a desarrolladores, emprendedores y entusiastas del área.',
+    'tags' => 'desarrollo, Mobile, Cloud, Android, iOS',
+    'links_otros' => array(
+      array(
+        'txt' => '@mobiledayuy',
+        'uri' => 'https://twitter.com/mobiledayuy',
+        'alt' => 'twitter'
+      ),
+      array(
+        'txt' => 'Facebook',
+        'uri' => 'https://www.facebook.com/mobiledayuy',
+        'alt' => 'Facebook'
+      ),
+      array(
+        'txt' => 'LinkedIn',
+        'uri' => 'https://www.linkedin.com/groups/8558623',
+        'alt' => 'LinkedIn'
+      ),
+      array(
+        'txt' => 'Youtube',
+        'uri' => 'https://youtube.com/mobiledayuy',
+        'alt' => 'Youtube'
+      ),
+      array(
+        'txt' => 'Github',
+        'uri' => 'https://github.com/mobileuy',
+        'alt' => 'Github'
+      ),
+      array(
+        'txt' => 'Meetup',
+        'uri' => 'https://www.meetup.com/MobileUY/',
+        'alt' => 'Meetup'
+      ),
+    ),
+  ),
 /*
     'phpday' => array(
         'id' => 'phpday',
@@ -16,29 +82,6 @@ $anuales = array(
                 'txt' => '@phpdayuy',
                 'uri' => 'https://twitter.com/phpdayuy',
                 'alt' => 'twitter'
-            ),
-        ),
-    ),
-    'netconfuy' => array(
-        'id' => 'netconf',
-        'titulo' => '.Net Conf UY v2015',
-        'lugar' => 'Auditorio de Antel',
-        'fecha' => '30 Setiembre al 4 de Octubre 2015',
-        'horario' => '',
-        'costo' => 'a confirmar',
-        'link' => 'http://netconf.uy',
-        'descripcion' => '',
-        'tags' => '.net, desarrollo, Microsoft, Mobile, Cloud',
-        'links_otros' => array(
-            array(
-                'txt' => '@NETConfUY',
-                'uri' => 'https://twitter.com/NETConfUY',
-                'alt' => 'twitter'
-            ),
-            array(
-                'txt' => 'Facebook',
-                'uri' => 'https://www.facebook.com/NETConfUY',
-                'alt' => 'Facebook'
             ),
         ),
     ),
@@ -285,7 +328,7 @@ $mensuales = array(
         'id' => 'angularmvd',
         'titulo' => 'Angular MVD',
         'lugar' => '',
-        'fecha' => '2o miércoles de mes',
+        'fecha' => '3er miércoles de mes',
         'horario' => '7pm',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/Angular-MVD/',
@@ -293,20 +336,6 @@ $mensuales = array(
         'tags' => 'angularjs, javascript, mobile',
         'links_otros' => array()
     ),
-    'angularuy' => array(
-        'id' => 'angularuy',
-        'titulo' => 'ng-meetup-uy',
-        'lugar' => '',
-        'fecha' => '',
-        'horario' => '',
-        'costo' => 'gratis',
-        'link' => 'http://www.meetup.com/ng-meetup-uy/',
-        'descripcion' => '',
-        'tags' => 'angularjs, javascript, mobile',
-        'links_otros' => array()
-    ),
-    
-
     'technbeers' => array(
         'id' => 'technbeers',
         'titulo' => 'TechNbeers',
@@ -442,6 +471,7 @@ $mensuales = array(
     'emberjs' => array(
         'id' => 'emberjs',
         'titulo' => 'Ember.js Montevideo',
+        'fecha' => '2o jueves de mes',
         'subtitulo' => '',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/Ember-js-Montevideo',
