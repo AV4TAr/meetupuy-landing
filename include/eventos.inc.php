@@ -471,6 +471,7 @@ $mensuales = array(
     'emberjs' => array(
         'id' => 'emberjs',
         'titulo' => 'Ember.js Montevideo',
+        'fecha' => '2o jueves de mes',
         'subtitulo' => '',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/Ember-js-Montevideo',
