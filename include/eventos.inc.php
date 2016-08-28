@@ -1,5 +1,28 @@
 <?php
 $anuales = array(
+  'netconfuy' => array(
+    'id' => 'netconf',
+    'titulo' => '.NET Conf UY v2016',
+    'lugar' => 'Auditorio de Antel',
+    'fecha' => '29 Setiembre al 1 de Octubre 2016',
+    'horario' => '',
+    'costo' => 'U$S 20',
+    'link' => 'http://netconf.uy/',
+    'descripcion' => 'workshops + conferencias + expertos + comunidad',
+    'tags' => '.net, desarrollo, Microsoft, Mobile, Cloud',
+    'links_otros' => array(
+      array(
+        'txt' => '@NETConfUY',
+        'uri' => 'https://twitter.com/NETConfUY',
+        'alt' => 'twitter'
+      ),
+      array(
+        'txt' => 'Facebook',
+        'uri' => 'https://www.facebook.com/NETConfUY',
+        'alt' => 'Facebook'
+      ),
+    ),
+  ),
 /*
     'phpday' => array(
         'id' => 'phpday',
@@ -16,29 +39,6 @@ $anuales = array(
                 'txt' => '@phpdayuy',
                 'uri' => 'https://twitter.com/phpdayuy',
                 'alt' => 'twitter'
-            ),
-        ),
-    ),
-    'netconfuy' => array(
-        'id' => 'netconf',
-        'titulo' => '.Net Conf UY v2015',
-        'lugar' => 'Auditorio de Antel',
-        'fecha' => '30 Setiembre al 4 de Octubre 2015',
-        'horario' => '',
-        'costo' => 'a confirmar',
-        'link' => 'http://netconf.uy',
-        'descripcion' => '',
-        'tags' => '.net, desarrollo, Microsoft, Mobile, Cloud',
-        'links_otros' => array(
-            array(
-                'txt' => '@NETConfUY',
-                'uri' => 'https://twitter.com/NETConfUY',
-                'alt' => 'twitter'
-            ),
-            array(
-                'txt' => 'Facebook',
-                'uri' => 'https://www.facebook.com/NETConfUY',
-                'alt' => 'Facebook'
             ),
         ),
     ),
