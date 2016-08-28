@@ -23,6 +23,49 @@ $anuales = array(
       ),
     ),
   ),
+  'mobileday' => array(
+    'id' => 'mobileday',
+    'titulo' => 'MOBILE DAY',
+    'lugar' => 'Auditorio de Antel',
+    'fecha' => '12 de Noviembre del 2016',
+    'horario' => '',
+    'costo' => '',
+    'link' => 'http://www.mobileday.uy/',
+    'descripcion' => 'MobileDay es la primera conferencia de tecnologías Mobile del Uruguay orientada a desarrolladores, emprendedores y entusiastas del área.',
+    'tags' => 'desarrollo, Mobile, Cloud, Android, iOS',
+    'links_otros' => array(
+      array(
+        'txt' => '@mobiledayuy',
+        'uri' => 'https://twitter.com/mobiledayuy',
+        'alt' => 'twitter'
+      ),
+      array(
+        'txt' => 'Facebook',
+        'uri' => 'https://www.facebook.com/mobiledayuy',
+        'alt' => 'Facebook'
+      ),
+      array(
+        'txt' => 'LinkedIn',
+        'uri' => 'https://www.linkedin.com/groups/8558623',
+        'alt' => 'LinkedIn'
+      ),
+      array(
+        'txt' => 'Youtube',
+        'uri' => 'https://youtube.com/mobiledayuy',
+        'alt' => 'Youtube'
+      ),
+      array(
+        'txt' => 'Github',
+        'uri' => 'https://github.com/mobileuy',
+        'alt' => 'Github'
+      ),
+      array(
+        'txt' => 'Meetup',
+        'uri' => 'https://www.meetup.com/MobileUY/',
+        'alt' => 'Meetup'
+      ),
+    ),
+  ),
 /*
     'phpday' => array(
         'id' => 'phpday',
