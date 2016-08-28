@@ -328,7 +328,7 @@ $mensuales = array(
         'id' => 'angularmvd',
         'titulo' => 'Angular MVD',
         'lugar' => '',
-        'fecha' => '2o miércoles de mes',
+        'fecha' => '3er miércoles de mes',
         'horario' => '7pm',
         'costo' => 'gratis',
         'link' => 'http://www.meetup.com/Angular-MVD/',
@@ -336,20 +336,6 @@ $mensuales = array(
         'tags' => 'angularjs, javascript, mobile',
         'links_otros' => array()
     ),
-    'angularuy' => array(
-        'id' => 'angularuy',
-        'titulo' => 'ng-meetup-uy',
-        'lugar' => '',
-        'fecha' => '',
-        'horario' => '',
-        'costo' => 'gratis',
-        'link' => 'http://www.meetup.com/ng-meetup-uy/',
-        'descripcion' => '',
-        'tags' => 'angularjs, javascript, mobile',
-        'links_otros' => array()
-    ),
-    
-
     'technbeers' => array(
         'id' => 'technbeers',
         'titulo' => 'TechNbeers',
